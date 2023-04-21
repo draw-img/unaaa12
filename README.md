@@ -1,11 +1,12 @@
-<style type='text/css'>
+(setq markdown-xhtml-header-content
+"<style type='text/css'>
 .flex-box {
   display: flex; justify-content: center; gap: 6px
 }
 h2 {
   font-size: 30px; margin: 0;
 }
-</style>
+</style>")
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=HaEun%20Bae&fontSize=38&animation=fadeIn&fontAlignY=29&desc=Web%20Publisher%20and%20Markup%20Developer&descAlignY=48) -->
