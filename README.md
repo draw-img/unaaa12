@@ -1,6 +1,15 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=HaEun%20Bae&fontSize=38&animation=fadeIn&fontAlignY=29&desc=Web%20Publisher%20and%20Markup%20Developer&descAlignY=48) -->
+<style type='text/css'>
+.flex-box {
+  display: flex; justify-content: center; gap: 6px
+}
+h2 {
+  font-size: 30px; margin: 0;
+}
+</style>
 
-<h3 align="center" style="font-size: 40px; margin: 0">HaEun Bae</h3>
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=HaEun%20Bae&fontSize=38&animation=fadeIn&fontAlignY=29&desc=Web%20Publisher%20and%20Markup%20Developer&descAlignY=48) -->
+<h2 align="center">HaEun Bae</h2>
 <p align="center">Web Publisher & Markup Developer</p>
 
 
@@ -59,7 +68,7 @@
 <br>
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 6px">
+<div align="center" class="flex-box">
   <div>
 
   [![HaEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsam12&hide_rank=true)]()
