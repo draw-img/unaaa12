@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffe295&height=250&section=header&text=HaEun%20Bae&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Web%20Publisher%20and%20Markup%20Developer&descAlignY=54&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HaEun%20Bae&fontSize=38&animation=fadeIn&fontAlignY=29&desc=Web%20Publisher%20and%20Markup%20Developer&descAlignY=48)
 
-<h3 align="center">🛠 Teck Stack 🛠</h3>   
+<h4 align="center">🛠 Teck Stack 🛠</h4>   
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -35,11 +35,7 @@
 
 <br>
 
----   
-
-<br>
-
-<h3 align="center"> 🎳 About Me 🎳 </h3>
+<h4 align="center"> 🎳 About Me 🎳 </h4>
 <br>
 <p align="center">
   <a href="#">
@@ -52,26 +48,14 @@
     <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<br>
-
----  
 
 <br>
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px">
-  <a align='left'>
+<div align="center" style="display: flex; justify-content: center; gap: 6px">
 
   [![HaEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsam12&hide_rank=true)]()
 
-  </a>
-
-  <a align='right'>
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsam12&layout=compact)]()   
     
-  </a>
 </div>
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffe295&height=150&section=footer)
