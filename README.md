@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=HaEun%20Bae&fontSize=38&animation=fadeIn&fontAlignY=29&desc=Web%20Publisher%20and%20Markup%20Developer&descAlignY=48) -->
-<h2 align="center">HaEun Bae</h2>
+<h3 align="center">HaEun Bae</h3>
 <p align="center">Web Publisher & Markup Developer</p>
 
 
@@ -16,9 +16,10 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 <p align='center'>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-000?style=flat&logo=markdown&logoColor=white"/>
