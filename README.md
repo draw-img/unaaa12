@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=HaEun%20Bae&fontSize=38&animation=fadeIn&fontAlignY=29&desc=Web%20Publisher%20and%20Markup%20Developer&descAlignY=48) -->
-<h3 align="center"> HaEun Bae</h3>
+<h2 align="center">HaEun Bae</h2>
 <p align="center">Web Publisher & Markup Developer</p>
 
 
@@ -11,17 +11,20 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 <p align='center'>
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-000?style=flat&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </p>
 
 <p align='center'>
@@ -58,17 +61,9 @@
 <br>
 <br>
 
-<div align="center" class="flex-box">
-  <div>
+<div align="center">
 
-  [![HaEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsam12&hide_rank=true)]()
-
-  </div>
-
-  <div>
-
+  [![HaEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsam12&hide_rank=true)]()    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsam12&layout=compact)]()   
 
-  </div>
-    
 </div>
