@@ -52,7 +52,7 @@
 
 <div align="center">
 
-  [![HaEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsam12&hide_rank=true)]()
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsam12&layout=compact)]()   
+  [![HaEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=draw-img&hide_rank=true)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=draw-img&layout=compact)]()   
 
 </div>
