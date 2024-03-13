@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=HaEun%20Bae&fontSize=38&animation=fadeIn&fontAlignY=29&desc=Web%20Publisher%20and%20Markup%20Developer&descAlignY=48) -->
-<h4 align="center">HaEun Bae</h4>
+<h4 align="center"Jimin Bae</h4>
 <p align="center">Web Publisher & Markup Developer</p>
 
 
